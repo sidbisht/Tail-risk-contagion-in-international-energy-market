@@ -33,6 +33,21 @@ The study explores how extreme market shocks, or "tail risks," propagate across 
 
 ---
 
+## 📊 Visual Presentations
+
+### Tail Risk Spillover Network
+
+![image](https://github.com/user-attachments/assets/eda62d3d-27d4-408d-9a8d-a19990d6d8f0)
+
+*This graph illustrates the intensity and direction of tail risk spillovers between various energy markets. Nodes represent markets, while edges indicate magnitude and direction.*
+
+### Quantile Spillover Analysis
+
+![Quantile Spillover Analysis](report/figures/quantile_spillover.png)
+
+*This heatmap shows spillover effects across quantiles, highlighting extreme event impacts on interconnected markets.*
+
+---
 
 ## 📈 Key Findings
 - Traditional energy sectors (e.g., S&P Energy Index) are major risk transmitters.
