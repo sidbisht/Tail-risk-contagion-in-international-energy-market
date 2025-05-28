@@ -43,7 +43,8 @@ The study explores how extreme market shocks, or "tail risks," propagate across 
 
 ### Quantile Spillover Analysis
 
-![Quantile Spillover Analysis](report/figures/quantile_spillover.png)
+![image](https://github.com/user-attachments/assets/d1717641-c0c0-49f4-ae94-c1033b8a9d39)
+
 
 *This heatmap shows spillover effects across quantiles, highlighting extreme event impacts on interconnected markets.*
 
